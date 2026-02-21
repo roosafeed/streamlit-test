@@ -18,7 +18,8 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 
 st.set_page_config(page_title="Churn & Revenue Insights", layout="wide")
 
-st.write("Test edit")
+secret_key = st.secrets.get("MY_SECRETS")
+st.write(secret_key)
 
 NUMERIC_USAGE_FEATURES = [
     "weekly_active_days_avg",
