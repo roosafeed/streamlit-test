@@ -1,0 +1,601 @@
+customer_id,signup_date,region,industry,company_size,segment,acquisition_channel,plan,price_usd_month
+C0001,2023-09-11,North America,Healthcare,11-50,Mid-Market,Outbound,Basic,50
+C0002,2024-08-09,LATAM,Retail,1-10,SMB,Outbound,Pro,200
+C0003,2024-02-26,Europe,Finance,1-10,SMB,Organic,Basic,50
+C0004,2023-09-15,Europe,Education,1-10,SMB,Organic,Basic,50
+C0005,2023-08-11,APAC,Retail,201-1000,Mid-Market,Referral,Basic,50
+C0006,2023-06-21,Europe,Manufacturing,51-200,Mid-Market,Paid,Pro,200
+C0007,2025-02-04,Europe,Retail,1-10,Enterprise,Organic,Enterprise,1000
+C0008,2023-09-30,APAC,Retail,1-10,SMB,Referral,Basic,50
+C0009,2024-09-09,North America,Education,51-200,SMB,Paid,Basic,50
+C0010,2024-01-01,North America,Manufacturing,1-10,SMB,Outbound,Basic,50
+C0011,2024-04-26,Europe,Healthcare,11-50,SMB,Organic,Pro,200
+C0012,2024-09-01,North America,Healthcare,1000+,SMB,Paid,Basic,50
+C0013,2023-08-27,Europe,Retail,11-50,SMB,Paid,Basic,50
+C0014,2024-06-07,Europe,Manufacturing,51-200,SMB,Events,Basic,50
+C0015,2023-09-08,APAC,Manufacturing,1000+,Mid-Market,Paid,Pro,200
+C0016,2025-03-25,APAC,Education,11-50,SMB,Referral,Basic,50
+C0017,2023-10-09,LATAM,Finance,1-10,SMB,Organic,Basic,50
+C0018,2025-03-23,APAC,Healthcare,11-50,Mid-Market,Events,Pro,200
+C0019,2024-04-04,APAC,Education,201-1000,Mid-Market,Paid,Pro,200
+C0020,2024-05-09,North America,SaaS,201-1000,SMB,Organic,Basic,50
+C0021,2024-10-04,Europe,Healthcare,51-200,Mid-Market,Referral,Pro,200
+C0022,2024-07-18,Europe,Education,1-10,Mid-Market,Organic,Basic,50
+C0023,2024-06-20,North America,Healthcare,51-200,SMB,Organic,Basic,50
+C0024,2023-12-09,Europe,Finance,201-1000,SMB,Events,Basic,50
+C0025,2024-03-03,Europe,SaaS,51-200,Enterprise,Paid,Enterprise,1000
+C0026,2023-11-08,LATAM,Finance,201-1000,SMB,Referral,Basic,50
+C0027,2024-09-02,MEA,SaaS,201-1000,SMB,Organic,Pro,200
+C0028,2024-04-09,Europe,Retail,51-200,SMB,Events,Pro,200
+C0029,2023-06-22,North America,Education,51-200,Mid-Market,Organic,Pro,200
+C0030,2024-02-08,North America,SaaS,11-50,Mid-Market,Paid,Pro,200
+C0031,2024-12-12,MEA,Finance,1-10,Mid-Market,Outbound,Pro,200
+C0032,2024-09-17,LATAM,Healthcare,51-200,Mid-Market,Events,Basic,50
+C0033,2023-07-29,North America,SaaS,11-50,SMB,Paid,Basic,50
+C0034,2024-10-23,APAC,Education,201-1000,Enterprise,Organic,Enterprise,1000
+C0035,2025-04-12,North America,SaaS,1000+,SMB,Events,Basic,50
+C0036,2024-09-18,North America,Manufacturing,51-200,Mid-Market,Paid,Pro,200
+C0037,2025-04-30,North America,Healthcare,1-10,Mid-Market,Referral,Pro,200
+C0038,2023-12-07,North America,Education,11-50,Mid-Market,Referral,Basic,50
+C0039,2025-04-17,MEA,Education,1-10,Enterprise,Organic,Enterprise,1000
+C0040,2024-12-14,APAC,Retail,51-200,Mid-Market,Organic,Pro,200
+C0041,2024-12-18,Europe,Finance,51-200,Mid-Market,Referral,Pro,200
+C0042,2024-01-30,APAC,Retail,201-1000,SMB,Organic,Basic,50
+C0043,2024-10-17,LATAM,Education,11-50,SMB,Organic,Basic,50
+C0044,2023-10-09,MEA,Healthcare,201-1000,SMB,Outbound,Pro,200
+C0045,2024-09-27,North America,SaaS,201-1000,SMB,Paid,Pro,200
+C0046,2025-03-08,Europe,SaaS,11-50,SMB,Referral,Pro,200
+C0047,2023-06-21,North America,Healthcare,201-1000,SMB,Paid,Basic,50
+C0048,2023-11-14,North America,Education,11-50,SMB,Paid,Basic,50
+C0049,2024-02-29,North America,SaaS,11-50,Mid-Market,Organic,Pro,200
+C0050,2024-06-22,APAC,SaaS,51-200,SMB,Organic,Basic,50
+C0051,2025-01-21,Europe,SaaS,11-50,SMB,Organic,Pro,200
+C0052,2024-04-11,North America,Finance,51-200,SMB,Paid,Pro,200
+C0053,2023-06-14,North America,Finance,51-200,SMB,Events,Pro,200
+C0054,2024-01-28,Europe,Manufacturing,51-200,Enterprise,Paid,Enterprise,1000
+C0055,2024-05-11,North America,Retail,11-50,Mid-Market,Paid,Basic,50
+C0056,2024-12-16,Europe,Healthcare,11-50,Mid-Market,Paid,Pro,200
+C0057,2024-05-05,North America,Healthcare,51-200,SMB,Organic,Basic,50
+C0058,2023-08-31,North America,Healthcare,11-50,Mid-Market,Paid,Pro,200
+C0059,2024-06-01,Europe,Manufacturing,11-50,SMB,Organic,Basic,50
+C0060,2024-08-28,APAC,Finance,1-10,SMB,Organic,Pro,200
+C0061,2024-08-01,North America,Education,51-200,Enterprise,Organic,Enterprise,1000
+C0062,2024-10-21,North America,Education,1-10,Mid-Market,Paid,Basic,50
+C0063,2023-07-05,North America,Manufacturing,51-200,Mid-Market,Referral,Pro,200
+C0064,2023-12-23,MEA,Education,51-200,Mid-Market,Organic,Pro,200
+C0065,2023-08-20,Europe,Healthcare,11-50,Mid-Market,Organic,Pro,200
+C0066,2024-12-13,Europe,Retail,11-50,Mid-Market,Referral,Basic,50
+C0067,2024-06-22,LATAM,SaaS,1000+,SMB,Organic,Basic,50
+C0068,2023-06-02,North America,Finance,201-1000,SMB,Events,Basic,50
+C0069,2024-06-24,LATAM,Finance,201-1000,SMB,Paid,Pro,200
+C0070,2024-12-17,Europe,Manufacturing,201-1000,SMB,Paid,Basic,50
+C0071,2023-09-14,North America,Finance,1-10,SMB,Paid,Basic,50
+C0072,2024-09-19,Europe,Healthcare,1-10,Enterprise,Organic,Enterprise,1000
+C0073,2024-07-06,APAC,Education,11-50,Enterprise,Referral,Enterprise,1000
+C0074,2024-12-07,Europe,Healthcare,11-50,SMB,Paid,Basic,50
+C0075,2023-11-09,MEA,Manufacturing,11-50,Mid-Market,Events,Pro,200
+C0076,2023-12-19,Europe,Healthcare,11-50,SMB,Organic,Basic,50
+C0077,2024-02-25,APAC,Education,11-50,Enterprise,Paid,Enterprise,1000
+C0078,2024-02-26,Europe,Retail,51-200,SMB,Referral,Pro,200
+C0079,2024-08-29,LATAM,Manufacturing,51-200,SMB,Organic,Basic,50
+C0080,2024-09-04,Europe,Retail,11-50,SMB,Paid,Basic,50
+C0081,2024-02-07,North America,SaaS,201-1000,Mid-Market,Referral,Pro,200
+C0082,2024-03-22,North America,Retail,11-50,SMB,Events,Basic,50
+C0083,2024-05-03,North America,SaaS,201-1000,Mid-Market,Organic,Pro,200
+C0084,2023-07-23,North America,SaaS,1-10,Enterprise,Events,Enterprise,1000
+C0085,2024-01-03,North America,Retail,1000+,SMB,Outbound,Pro,200
+C0086,2023-12-05,APAC,Manufacturing,51-200,SMB,Events,Pro,200
+C0087,2024-06-14,Europe,Education,11-50,Enterprise,Organic,Enterprise,1000
+C0088,2024-10-05,APAC,Healthcare,1-10,SMB,Referral,Pro,200
+C0089,2023-07-11,LATAM,Healthcare,11-50,SMB,Organic,Basic,50
+C0090,2023-11-04,Europe,Education,1-10,SMB,Outbound,Basic,50
+C0091,2023-06-15,APAC,SaaS,1-10,SMB,Paid,Basic,50
+C0092,2023-08-04,APAC,SaaS,51-200,Mid-Market,Organic,Basic,50
+C0093,2024-11-02,Europe,Manufacturing,11-50,Mid-Market,Referral,Pro,200
+C0094,2024-05-09,North America,Finance,51-200,SMB,Organic,Pro,200
+C0095,2023-10-07,North America,Retail,201-1000,SMB,Outbound,Pro,200
+C0096,2025-03-09,North America,SaaS,11-50,SMB,Outbound,Basic,50
+C0097,2024-09-14,North America,Healthcare,51-200,Enterprise,Referral,Enterprise,1000
+C0098,2023-08-02,North America,Manufacturing,1-10,SMB,Organic,Basic,50
+C0099,2023-10-17,LATAM,Retail,51-200,Enterprise,Referral,Enterprise,1000
+C0100,2024-10-11,APAC,Manufacturing,11-50,Enterprise,Organic,Enterprise,1000
+C0101,2025-01-13,North America,Retail,1000+,SMB,Organic,Pro,200
+C0102,2024-06-26,North America,Retail,201-1000,Mid-Market,Events,Basic,50
+C0103,2025-04-05,North America,Education,11-50,Mid-Market,Organic,Pro,200
+C0104,2024-07-23,Europe,SaaS,1-10,SMB,Paid,Pro,200
+C0105,2024-03-15,Europe,Manufacturing,201-1000,SMB,Outbound,Basic,50
+C0106,2024-06-13,LATAM,Manufacturing,51-200,Mid-Market,Organic,Pro,200
+C0107,2024-10-02,North America,Education,1-10,SMB,Organic,Pro,200
+C0108,2024-01-17,LATAM,Healthcare,11-50,SMB,Outbound,Basic,50
+C0109,2023-07-11,MEA,Healthcare,51-200,SMB,Organic,Pro,200
+C0110,2023-06-28,North America,SaaS,1-10,Enterprise,Referral,Enterprise,1000
+C0111,2023-10-13,APAC,SaaS,201-1000,Enterprise,Outbound,Enterprise,1000
+C0112,2023-12-18,Europe,Finance,11-50,SMB,Outbound,Pro,200
+C0113,2023-07-03,Europe,Education,1-10,SMB,Referral,Basic,50
+C0114,2023-07-18,Europe,Healthcare,201-1000,SMB,Organic,Basic,50
+C0115,2024-10-15,APAC,Retail,11-50,Enterprise,Organic,Enterprise,1000
+C0116,2024-07-11,APAC,Manufacturing,11-50,Enterprise,Events,Enterprise,1000
+C0117,2024-12-25,LATAM,SaaS,1-10,SMB,Events,Pro,200
+C0118,2023-09-07,LATAM,Manufacturing,1-10,Mid-Market,Paid,Basic,50
+C0119,2025-04-14,APAC,Manufacturing,51-200,Mid-Market,Organic,Pro,200
+C0120,2024-11-28,MEA,Finance,11-50,SMB,Organic,Pro,200
+C0121,2025-02-02,APAC,Healthcare,51-200,Mid-Market,Organic,Pro,200
+C0122,2024-09-04,APAC,SaaS,51-200,SMB,Referral,Basic,50
+C0123,2025-03-04,Europe,Manufacturing,51-200,Mid-Market,Paid,Pro,200
+C0124,2023-06-05,North America,SaaS,1-10,SMB,Outbound,Basic,50
+C0125,2024-01-04,APAC,Retail,11-50,SMB,Referral,Basic,50
+C0126,2024-10-15,Europe,Finance,201-1000,SMB,Organic,Pro,200
+C0127,2024-07-02,Europe,Retail,51-200,SMB,Referral,Pro,200
+C0128,2024-06-27,LATAM,SaaS,51-200,Enterprise,Paid,Enterprise,1000
+C0129,2023-12-24,North America,SaaS,11-50,Enterprise,Referral,Enterprise,1000
+C0130,2023-06-15,Europe,Healthcare,11-50,Mid-Market,Referral,Basic,50
+C0131,2024-12-05,APAC,Manufacturing,51-200,SMB,Events,Basic,50
+C0132,2024-09-03,APAC,Manufacturing,201-1000,SMB,Events,Basic,50
+C0133,2025-04-21,Europe,Retail,51-200,Enterprise,Organic,Enterprise,1000
+C0134,2024-12-26,LATAM,Finance,201-1000,Enterprise,Organic,Enterprise,1000
+C0135,2024-01-27,APAC,Education,51-200,SMB,Referral,Basic,50
+C0136,2024-12-15,North America,Manufacturing,1-10,SMB,Organic,Pro,200
+C0137,2023-09-04,North America,Healthcare,11-50,SMB,Organic,Pro,200
+C0138,2024-09-27,APAC,Retail,1-10,Mid-Market,Organic,Pro,200
+C0139,2024-07-11,North America,Retail,11-50,Mid-Market,Referral,Pro,200
+C0140,2024-01-17,North America,Education,201-1000,SMB,Organic,Pro,200
+C0141,2025-03-16,Europe,Healthcare,11-50,SMB,Referral,Basic,50
+C0142,2023-11-18,North America,Finance,11-50,SMB,Outbound,Basic,50
+C0143,2024-11-22,Europe,Healthcare,1-10,SMB,Organic,Basic,50
+C0144,2023-07-06,Europe,Finance,11-50,Enterprise,Organic,Enterprise,1000
+C0145,2024-11-06,Europe,Healthcare,11-50,SMB,Organic,Pro,200
+C0146,2023-11-07,Europe,Healthcare,11-50,SMB,Events,Basic,50
+C0147,2025-04-29,APAC,SaaS,51-200,SMB,Organic,Pro,200
+C0148,2024-01-29,North America,Retail,11-50,Mid-Market,Paid,Pro,200
+C0149,2023-08-25,APAC,Healthcare,51-200,SMB,Organic,Basic,50
+C0150,2024-12-29,Europe,Education,1-10,SMB,Referral,Pro,200
+C0151,2025-04-12,LATAM,Healthcare,1-10,Enterprise,Paid,Enterprise,1000
+C0152,2024-12-08,Europe,Manufacturing,11-50,Mid-Market,Referral,Pro,200
+C0153,2024-12-25,MEA,Retail,51-200,SMB,Outbound,Pro,200
+C0154,2025-03-07,APAC,Manufacturing,51-200,SMB,Organic,Basic,50
+C0155,2023-06-28,North America,Retail,11-50,SMB,Events,Basic,50
+C0156,2025-02-09,LATAM,Manufacturing,11-50,SMB,Organic,Basic,50
+C0157,2024-12-07,North America,Healthcare,51-200,SMB,Events,Basic,50
+C0158,2024-05-05,North America,Healthcare,1-10,Mid-Market,Referral,Pro,200
+C0159,2024-04-26,North America,SaaS,11-50,SMB,Events,Basic,50
+C0160,2025-03-01,Europe,Education,201-1000,SMB,Organic,Basic,50
+C0161,2024-10-18,Europe,Manufacturing,51-200,SMB,Organic,Basic,50
+C0162,2024-05-13,Europe,Finance,11-50,Mid-Market,Paid,Pro,200
+C0163,2024-09-15,LATAM,SaaS,201-1000,SMB,Paid,Basic,50
+C0164,2024-01-17,North America,Manufacturing,51-200,Enterprise,Organic,Pro,200
+C0165,2023-12-07,North America,Manufacturing,11-50,Enterprise,Paid,Pro,200
+C0166,2024-01-11,North America,SaaS,51-200,SMB,Organic,Basic,50
+C0167,2024-06-19,North America,Healthcare,51-200,SMB,Paid,Pro,200
+C0168,2024-06-11,Europe,Manufacturing,11-50,Mid-Market,Events,Pro,200
+C0169,2024-03-09,APAC,Healthcare,11-50,SMB,Paid,Basic,50
+C0170,2025-02-22,Europe,SaaS,11-50,SMB,Organic,Pro,200
+C0171,2025-02-17,North America,Healthcare,51-200,Enterprise,Paid,Enterprise,1000
+C0172,2024-02-14,Europe,Retail,11-50,Mid-Market,Organic,Pro,200
+C0173,2024-05-24,North America,Finance,201-1000,SMB,Outbound,Pro,200
+C0174,2024-08-29,LATAM,Manufacturing,51-200,Mid-Market,Organic,Pro,200
+C0175,2024-07-15,North America,Education,1-10,Mid-Market,Referral,Pro,200
+C0176,2025-03-10,Europe,Finance,51-200,SMB,Outbound,Pro,200
+C0177,2024-04-13,MEA,Healthcare,11-50,SMB,Events,Basic,50
+C0178,2025-04-07,Europe,Manufacturing,51-200,SMB,Referral,Basic,50
+C0179,2024-01-11,MEA,Healthcare,51-200,SMB,Events,Basic,50
+C0180,2024-01-20,North America,Retail,11-50,SMB,Outbound,Pro,200
+C0181,2025-04-14,APAC,SaaS,11-50,Mid-Market,Referral,Pro,200
+C0182,2025-03-25,Europe,Manufacturing,1-10,Mid-Market,Paid,Pro,200
+C0183,2024-06-08,APAC,Retail,1-10,Enterprise,Referral,Enterprise,1000
+C0184,2025-04-02,North America,Retail,11-50,SMB,Paid,Basic,50
+C0185,2025-01-28,North America,Manufacturing,11-50,SMB,Referral,Pro,200
+C0186,2024-09-14,North America,Healthcare,1000+,SMB,Paid,Pro,200
+C0187,2024-01-19,APAC,Education,11-50,Enterprise,Organic,Enterprise,1000
+C0188,2025-04-22,LATAM,Retail,11-50,SMB,Organic,Basic,50
+C0189,2023-09-21,APAC,Finance,51-200,SMB,Organic,Pro,200
+C0190,2024-10-09,North America,Retail,1-10,SMB,Organic,Basic,50
+C0191,2024-08-15,LATAM,Education,1000+,SMB,Organic,Pro,200
+C0192,2024-12-15,Europe,Healthcare,51-200,SMB,Paid,Basic,50
+C0193,2024-02-23,Europe,Healthcare,51-200,SMB,Organic,Basic,50
+C0194,2024-10-22,North America,Finance,1-10,Enterprise,Events,Enterprise,1000
+C0195,2024-06-20,APAC,Retail,11-50,SMB,Organic,Basic,50
+C0196,2024-06-21,North America,Healthcare,11-50,Enterprise,Organic,Pro,200
+C0197,2023-09-21,Europe,Education,201-1000,Mid-Market,Referral,Pro,200
+C0198,2025-02-02,LATAM,Manufacturing,1-10,SMB,Referral,Pro,200
+C0199,2025-02-14,North America,SaaS,11-50,Enterprise,Organic,Pro,200
+C0200,2023-08-20,Europe,SaaS,1000+,Mid-Market,Events,Pro,200
+C0201,2025-04-29,North America,SaaS,11-50,Enterprise,Events,Pro,200
+C0202,2023-09-21,North America,Retail,11-50,Enterprise,Organic,Enterprise,1000
+C0203,2023-06-02,Europe,Finance,1-10,Mid-Market,Organic,Pro,200
+C0204,2025-03-03,Europe,Healthcare,1000+,SMB,Outbound,Basic,50
+C0205,2024-01-06,APAC,Manufacturing,1-10,SMB,Referral,Basic,50
+C0206,2024-12-17,Europe,Education,51-200,SMB,Paid,Basic,50
+C0207,2024-01-11,Europe,Manufacturing,51-200,SMB,Events,Basic,50
+C0208,2024-06-19,APAC,Education,11-50,SMB,Organic,Basic,50
+C0209,2024-07-07,Europe,Retail,51-200,SMB,Paid,Basic,50
+C0210,2025-02-27,Europe,SaaS,1-10,Enterprise,Organic,Pro,200
+C0211,2023-10-08,Europe,Retail,11-50,SMB,Events,Basic,50
+C0212,2023-07-23,Europe,Finance,51-200,Mid-Market,Referral,Basic,50
+C0213,2025-04-14,North America,Finance,201-1000,SMB,Referral,Basic,50
+C0214,2025-04-02,LATAM,Education,51-200,SMB,Organic,Pro,200
+C0215,2024-07-20,APAC,Healthcare,11-50,Enterprise,Organic,Enterprise,1000
+C0216,2024-02-02,North America,Healthcare,1-10,Enterprise,Paid,Enterprise,1000
+C0217,2024-08-12,Europe,Education,1-10,Mid-Market,Referral,Pro,200
+C0218,2023-12-20,North America,Finance,1-10,Mid-Market,Paid,Pro,200
+C0219,2023-12-01,MEA,Finance,11-50,SMB,Organic,Pro,200
+C0220,2023-10-01,North America,Finance,11-50,SMB,Events,Pro,200
+C0221,2024-07-05,North America,Retail,11-50,Enterprise,Organic,Enterprise,1000
+C0222,2024-03-20,Europe,Finance,11-50,Mid-Market,Outbound,Basic,50
+C0223,2024-03-06,Europe,Manufacturing,11-50,SMB,Organic,Pro,200
+C0224,2025-01-30,LATAM,SaaS,11-50,Mid-Market,Referral,Pro,200
+C0225,2023-12-15,North America,Finance,201-1000,SMB,Organic,Basic,50
+C0226,2024-10-23,LATAM,Education,11-50,Mid-Market,Outbound,Pro,200
+C0227,2023-10-22,North America,SaaS,201-1000,SMB,Paid,Basic,50
+C0228,2025-01-29,LATAM,Retail,201-1000,Enterprise,Organic,Enterprise,1000
+C0229,2023-12-18,North America,Education,1-10,SMB,Organic,Basic,50
+C0230,2023-10-02,North America,SaaS,51-200,Enterprise,Organic,Enterprise,1000
+C0231,2023-12-04,APAC,Education,51-200,SMB,Organic,Pro,200
+C0232,2024-04-21,MEA,Retail,51-200,SMB,Outbound,Basic,50
+C0233,2024-09-06,LATAM,Manufacturing,11-50,Mid-Market,Paid,Pro,200
+C0234,2024-05-14,Europe,Retail,11-50,Mid-Market,Events,Basic,50
+C0235,2025-03-21,LATAM,Retail,11-50,SMB,Referral,Pro,200
+C0236,2024-07-07,North America,Education,11-50,SMB,Referral,Basic,50
+C0237,2024-05-11,MEA,Healthcare,51-200,Enterprise,Organic,Enterprise,1000
+C0238,2024-10-23,Europe,Finance,51-200,SMB,Organic,Pro,200
+C0239,2023-10-25,APAC,Finance,11-50,Mid-Market,Events,Pro,200
+C0240,2023-10-26,LATAM,Manufacturing,51-200,Mid-Market,Outbound,Pro,200
+C0241,2024-10-01,APAC,Manufacturing,1-10,SMB,Organic,Pro,200
+C0242,2025-03-01,Europe,Finance,11-50,Mid-Market,Organic,Pro,200
+C0243,2024-12-02,Europe,Healthcare,201-1000,SMB,Paid,Pro,200
+C0244,2024-05-03,LATAM,Finance,11-50,Enterprise,Outbound,Enterprise,1000
+C0245,2025-03-02,North America,Healthcare,1-10,SMB,Organic,Basic,50
+C0246,2024-09-15,MEA,Manufacturing,1-10,Mid-Market,Paid,Basic,50
+C0247,2023-10-29,APAC,SaaS,11-50,SMB,Events,Basic,50
+C0248,2024-07-19,North America,Education,1000+,SMB,Organic,Basic,50
+C0249,2024-03-24,APAC,Manufacturing,51-200,Mid-Market,Organic,Basic,50
+C0250,2025-01-31,Europe,Manufacturing,201-1000,SMB,Referral,Basic,50
+C0251,2024-02-18,APAC,Retail,51-200,SMB,Outbound,Basic,50
+C0252,2023-10-22,APAC,Retail,11-50,Mid-Market,Organic,Basic,50
+C0253,2024-05-11,North America,Retail,11-50,SMB,Paid,Pro,200
+C0254,2025-02-13,Europe,Education,51-200,SMB,Paid,Basic,50
+C0255,2024-12-23,MEA,Retail,1-10,Enterprise,Paid,Pro,200
+C0256,2023-06-02,North America,Healthcare,201-1000,Enterprise,Referral,Enterprise,1000
+C0257,2024-03-30,Europe,Finance,201-1000,SMB,Paid,Basic,50
+C0258,2024-02-09,Europe,SaaS,11-50,SMB,Paid,Pro,200
+C0259,2025-03-13,Europe,Manufacturing,1000+,SMB,Paid,Pro,200
+C0260,2024-08-26,Europe,Healthcare,201-1000,Enterprise,Referral,Enterprise,1000
+C0261,2023-07-07,Europe,SaaS,51-200,Enterprise,Paid,Enterprise,1000
+C0262,2023-11-07,North America,Healthcare,1-10,Enterprise,Events,Enterprise,1000
+C0263,2023-06-09,APAC,Healthcare,11-50,SMB,Organic,Basic,50
+C0264,2024-01-19,North America,Manufacturing,11-50,SMB,Events,Basic,50
+C0265,2023-09-07,North America,Finance,11-50,Mid-Market,Events,Basic,50
+C0266,2025-03-20,North America,Retail,1-10,Mid-Market,Organic,Pro,200
+C0267,2023-12-25,North America,Education,51-200,Mid-Market,Paid,Pro,200
+C0268,2023-10-09,Europe,Finance,1-10,Enterprise,Paid,Enterprise,1000
+C0269,2024-07-08,APAC,Education,51-200,Mid-Market,Organic,Pro,200
+C0270,2023-10-30,APAC,Manufacturing,201-1000,SMB,Paid,Basic,50
+C0271,2023-07-24,North America,Manufacturing,201-1000,Mid-Market,Organic,Basic,50
+C0272,2023-09-28,LATAM,Manufacturing,11-50,SMB,Organic,Basic,50
+C0273,2025-04-03,APAC,SaaS,201-1000,Mid-Market,Events,Pro,200
+C0274,2025-02-17,Europe,Education,1-10,Enterprise,Organic,Pro,200
+C0275,2025-01-07,MEA,Finance,1-10,SMB,Events,Basic,50
+C0276,2025-02-14,MEA,Finance,51-200,SMB,Paid,Basic,50
+C0277,2024-07-24,North America,Healthcare,11-50,SMB,Events,Basic,50
+C0278,2024-07-26,Europe,Healthcare,11-50,Mid-Market,Referral,Pro,200
+C0279,2023-09-12,MEA,Healthcare,51-200,SMB,Organic,Basic,50
+C0280,2024-02-09,APAC,Manufacturing,1-10,Mid-Market,Referral,Basic,50
+C0281,2024-01-13,North America,Finance,11-50,Mid-Market,Organic,Basic,50
+C0282,2023-09-20,APAC,Education,11-50,SMB,Paid,Pro,200
+C0283,2024-10-22,LATAM,Manufacturing,51-200,Mid-Market,Outbound,Pro,200
+C0284,2024-09-15,APAC,SaaS,51-200,SMB,Organic,Basic,50
+C0285,2023-09-07,APAC,Healthcare,11-50,SMB,Paid,Pro,200
+C0286,2023-10-31,LATAM,Manufacturing,11-50,Enterprise,Referral,Enterprise,1000
+C0287,2024-05-03,North America,Manufacturing,1-10,Mid-Market,Events,Pro,200
+C0288,2023-11-10,North America,SaaS,1-10,SMB,Referral,Pro,200
+C0289,2025-04-11,APAC,Retail,51-200,SMB,Organic,Basic,50
+C0290,2023-11-08,LATAM,Finance,11-50,SMB,Referral,Basic,50
+C0291,2024-12-31,North America,Education,1-10,SMB,Organic,Basic,50
+C0292,2024-07-02,Europe,Retail,51-200,Mid-Market,Referral,Basic,50
+C0293,2024-03-03,APAC,Healthcare,51-200,Mid-Market,Outbound,Pro,200
+C0294,2024-10-16,Europe,Manufacturing,51-200,SMB,Referral,Basic,50
+C0295,2024-06-26,APAC,SaaS,11-50,Mid-Market,Events,Basic,50
+C0296,2023-10-13,LATAM,SaaS,11-50,Mid-Market,Organic,Pro,200
+C0297,2023-12-12,APAC,Finance,11-50,SMB,Referral,Basic,50
+C0298,2024-07-05,Europe,Retail,1-10,SMB,Events,Basic,50
+C0299,2025-03-01,Europe,Finance,51-200,SMB,Organic,Basic,50
+C0300,2023-07-03,Europe,Manufacturing,201-1000,Enterprise,Events,Enterprise,1000
+C0301,2025-04-18,Europe,Finance,51-200,Enterprise,Organic,Enterprise,1000
+C0302,2024-09-02,Europe,Education,51-200,SMB,Referral,Basic,50
+C0303,2024-09-12,Europe,SaaS,11-50,Mid-Market,Events,Basic,50
+C0304,2024-06-09,North America,SaaS,51-200,Mid-Market,Referral,Pro,200
+C0305,2023-06-22,North America,Healthcare,11-50,SMB,Organic,Basic,50
+C0306,2025-03-31,Europe,Healthcare,11-50,SMB,Referral,Basic,50
+C0307,2023-07-08,Europe,Manufacturing,11-50,SMB,Paid,Basic,50
+C0308,2024-01-16,North America,Education,1-10,Enterprise,Outbound,Enterprise,1000
+C0309,2024-05-30,APAC,Retail,11-50,Mid-Market,Paid,Pro,200
+C0310,2024-12-14,APAC,Finance,1000+,Enterprise,Organic,Enterprise,1000
+C0311,2024-08-11,North America,Manufacturing,11-50,Enterprise,Referral,Pro,200
+C0312,2024-03-09,LATAM,Healthcare,1-10,SMB,Paid,Basic,50
+C0313,2023-06-27,Europe,Finance,11-50,SMB,Referral,Pro,200
+C0314,2024-01-12,APAC,Healthcare,51-200,SMB,Referral,Pro,200
+C0315,2024-03-03,Europe,Finance,51-200,Mid-Market,Events,Basic,50
+C0316,2025-01-29,MEA,Retail,51-200,Enterprise,Referral,Enterprise,1000
+C0317,2024-03-10,APAC,Manufacturing,1-10,SMB,Paid,Basic,50
+C0318,2024-09-23,APAC,Finance,51-200,Mid-Market,Organic,Basic,50
+C0319,2024-08-26,APAC,Education,11-50,SMB,Organic,Basic,50
+C0320,2025-03-20,North America,SaaS,201-1000,Enterprise,Organic,Pro,200
+C0321,2024-10-28,North America,Education,51-200,Enterprise,Organic,Enterprise,1000
+C0322,2024-11-28,APAC,Education,1-10,Enterprise,Referral,Pro,200
+C0323,2023-12-09,Europe,SaaS,1-10,Mid-Market,Referral,Basic,50
+C0324,2023-07-19,APAC,Education,1-10,Enterprise,Paid,Enterprise,1000
+C0325,2024-10-24,North America,Finance,11-50,SMB,Events,Basic,50
+C0326,2023-06-17,Europe,Finance,11-50,Mid-Market,Outbound,Basic,50
+C0327,2023-11-19,Europe,Finance,51-200,SMB,Events,Basic,50
+C0328,2024-01-06,Europe,SaaS,11-50,Enterprise,Referral,Pro,200
+C0329,2023-11-05,APAC,Education,11-50,Mid-Market,Paid,Basic,50
+C0330,2024-09-19,Europe,SaaS,1-10,Enterprise,Paid,Enterprise,1000
+C0331,2023-07-16,Europe,Finance,1-10,Mid-Market,Organic,Basic,50
+C0332,2024-06-07,Europe,Education,201-1000,SMB,Paid,Basic,50
+C0333,2024-10-30,Europe,Education,11-50,Mid-Market,Outbound,Pro,200
+C0334,2023-09-07,APAC,Healthcare,51-200,SMB,Events,Pro,200
+C0335,2023-07-07,North America,Healthcare,201-1000,Enterprise,Organic,Enterprise,1000
+C0336,2024-03-06,Europe,Retail,51-200,Enterprise,Paid,Enterprise,1000
+C0337,2024-05-14,Europe,Manufacturing,201-1000,SMB,Events,Basic,50
+C0338,2024-10-09,APAC,Healthcare,11-50,Mid-Market,Organic,Pro,200
+C0339,2024-03-28,Europe,SaaS,1000+,SMB,Paid,Basic,50
+C0340,2023-11-28,LATAM,Healthcare,1-10,SMB,Events,Basic,50
+C0341,2025-01-27,MEA,Retail,1-10,Mid-Market,Paid,Pro,200
+C0342,2023-09-07,North America,Education,51-200,SMB,Organic,Basic,50
+C0343,2025-04-30,North America,Retail,201-1000,SMB,Paid,Pro,200
+C0344,2023-09-24,Europe,Education,201-1000,SMB,Events,Basic,50
+C0345,2023-12-08,North America,Education,1-10,SMB,Referral,Pro,200
+C0346,2024-02-08,APAC,Manufacturing,11-50,Enterprise,Organic,Enterprise,1000
+C0347,2023-11-08,LATAM,Healthcare,201-1000,Enterprise,Paid,Enterprise,1000
+C0348,2024-02-11,North America,SaaS,11-50,SMB,Paid,Basic,50
+C0349,2024-04-18,North America,SaaS,51-200,Mid-Market,Referral,Pro,200
+C0350,2023-10-06,North America,Finance,201-1000,SMB,Referral,Basic,50
+C0351,2023-06-18,APAC,Education,11-50,Enterprise,Organic,Enterprise,1000
+C0352,2024-12-17,Europe,SaaS,11-50,SMB,Events,Basic,50
+C0353,2024-12-21,North America,Manufacturing,11-50,Enterprise,Organic,Enterprise,1000
+C0354,2024-04-18,LATAM,Education,11-50,SMB,Paid,Basic,50
+C0355,2025-04-16,APAC,Manufacturing,201-1000,Enterprise,Organic,Enterprise,1000
+C0356,2025-02-15,North America,SaaS,11-50,SMB,Paid,Basic,50
+C0357,2024-03-14,APAC,SaaS,201-1000,Enterprise,Paid,Pro,200
+C0358,2025-03-24,APAC,Finance,1-10,SMB,Paid,Pro,200
+C0359,2025-02-28,Europe,SaaS,1000+,SMB,Organic,Pro,200
+C0360,2023-11-02,North America,Education,11-50,SMB,Referral,Pro,200
+C0361,2024-10-02,North America,Education,1-10,Mid-Market,Organic,Basic,50
+C0362,2024-06-20,North America,Education,1-10,SMB,Referral,Pro,200
+C0363,2023-09-12,LATAM,Finance,51-200,Mid-Market,Outbound,Pro,200
+C0364,2024-06-27,LATAM,Finance,51-200,SMB,Organic,Pro,200
+C0365,2024-02-01,North America,SaaS,201-1000,SMB,Paid,Basic,50
+C0366,2023-11-23,North America,Retail,1-10,Mid-Market,Paid,Basic,50
+C0367,2023-07-09,North America,Retail,1-10,SMB,Organic,Pro,200
+C0368,2024-09-19,North America,Finance,11-50,Mid-Market,Paid,Pro,200
+C0369,2025-04-12,LATAM,SaaS,11-50,SMB,Events,Basic,50
+C0370,2024-11-19,North America,Retail,11-50,Enterprise,Referral,Enterprise,1000
+C0371,2024-07-12,North America,SaaS,1000+,SMB,Organic,Pro,200
+C0372,2024-11-06,North America,SaaS,1000+,Mid-Market,Events,Pro,200
+C0373,2024-10-18,APAC,SaaS,201-1000,Mid-Market,Paid,Pro,200
+C0374,2023-07-06,Europe,Healthcare,51-200,Mid-Market,Events,Pro,200
+C0375,2025-04-15,APAC,Education,11-50,SMB,Referral,Basic,50
+C0376,2023-06-20,North America,SaaS,11-50,SMB,Paid,Basic,50
+C0377,2024-04-16,APAC,Healthcare,11-50,Mid-Market,Organic,Basic,50
+C0378,2024-10-24,APAC,Finance,201-1000,SMB,Organic,Basic,50
+C0379,2024-07-04,North America,Retail,1-10,SMB,Outbound,Basic,50
+C0380,2025-03-15,Europe,Education,11-50,Mid-Market,Organic,Basic,50
+C0381,2024-09-13,LATAM,Retail,1-10,Mid-Market,Outbound,Pro,200
+C0382,2023-10-21,MEA,Education,11-50,SMB,Paid,Pro,200
+C0383,2023-08-31,Europe,Retail,201-1000,SMB,Organic,Basic,50
+C0384,2024-05-19,Europe,Education,51-200,SMB,Organic,Pro,200
+C0385,2023-07-21,LATAM,Retail,11-50,SMB,Organic,Basic,50
+C0386,2025-03-26,Europe,Retail,1000+,SMB,Outbound,Basic,50
+C0387,2025-04-28,North America,Retail,51-200,SMB,Paid,Basic,50
+C0388,2024-12-26,LATAM,Retail,1-10,SMB,Paid,Basic,50
+C0389,2023-12-07,North America,Finance,11-50,Enterprise,Organic,Enterprise,1000
+C0390,2023-10-03,Europe,SaaS,11-50,Mid-Market,Organic,Pro,200
+C0391,2023-10-28,North America,Manufacturing,1-10,Enterprise,Paid,Pro,200
+C0392,2024-04-09,North America,Healthcare,1000+,Mid-Market,Organic,Basic,50
+C0393,2024-12-21,North America,Manufacturing,11-50,SMB,Events,Basic,50
+C0394,2024-05-07,APAC,Manufacturing,201-1000,SMB,Paid,Pro,200
+C0395,2024-03-31,North America,Education,11-50,SMB,Paid,Pro,200
+C0396,2025-04-22,North America,SaaS,1-10,SMB,Paid,Pro,200
+C0397,2025-04-12,North America,Education,11-50,SMB,Paid,Basic,50
+C0398,2023-07-24,Europe,SaaS,1-10,Mid-Market,Outbound,Pro,200
+C0399,2024-08-17,MEA,SaaS,11-50,Mid-Market,Paid,Pro,200
+C0400,2025-02-02,Europe,Retail,201-1000,SMB,Organic,Basic,50
+C0401,2024-02-19,Europe,Finance,11-50,SMB,Referral,Pro,200
+C0402,2023-07-23,LATAM,Retail,51-200,SMB,Organic,Basic,50
+C0403,2024-12-23,Europe,Finance,1-10,SMB,Organic,Pro,200
+C0404,2025-02-09,North America,Education,1-10,Enterprise,Outbound,Enterprise,1000
+C0405,2023-06-05,North America,Finance,1-10,Mid-Market,Events,Basic,50
+C0406,2023-09-11,North America,Education,51-200,SMB,Outbound,Basic,50
+C0407,2023-12-13,Europe,Manufacturing,1-10,SMB,Paid,Pro,200
+C0408,2024-05-15,Europe,Manufacturing,11-50,SMB,Paid,Basic,50
+C0409,2023-07-17,APAC,Finance,51-200,Mid-Market,Organic,Pro,200
+C0410,2025-03-17,North America,Finance,11-50,SMB,Organic,Pro,200
+C0411,2024-02-24,Europe,Education,1-10,Mid-Market,Events,Pro,200
+C0412,2024-06-04,APAC,Retail,11-50,Mid-Market,Paid,Basic,50
+C0413,2025-02-25,Europe,Education,201-1000,Mid-Market,Events,Pro,200
+C0414,2023-09-14,LATAM,Retail,51-200,SMB,Referral,Basic,50
+C0415,2025-03-31,Europe,Manufacturing,11-50,SMB,Organic,Basic,50
+C0416,2025-03-20,North America,SaaS,1-10,SMB,Paid,Basic,50
+C0417,2025-03-18,APAC,Finance,1000+,SMB,Referral,Basic,50
+C0418,2023-09-28,Europe,Retail,51-200,SMB,Organic,Basic,50
+C0419,2025-01-24,Europe,Education,11-50,Mid-Market,Events,Pro,200
+C0420,2023-07-28,Europe,Manufacturing,201-1000,SMB,Paid,Basic,50
+C0421,2024-05-11,Europe,Retail,11-50,SMB,Organic,Basic,50
+C0422,2024-09-16,APAC,Education,11-50,Mid-Market,Referral,Pro,200
+C0423,2023-09-25,North America,Finance,51-200,SMB,Outbound,Basic,50
+C0424,2023-10-05,North America,Finance,11-50,Mid-Market,Organic,Pro,200
+C0425,2024-06-27,North America,Healthcare,1000+,SMB,Events,Basic,50
+C0426,2025-03-02,APAC,SaaS,51-200,SMB,Organic,Pro,200
+C0427,2023-07-28,North America,Healthcare,51-200,Mid-Market,Events,Basic,50
+C0428,2025-02-23,LATAM,Manufacturing,1-10,SMB,Referral,Basic,50
+C0429,2024-10-25,Europe,Retail,1-10,Mid-Market,Organic,Pro,200
+C0430,2023-09-04,LATAM,Manufacturing,11-50,Mid-Market,Organic,Pro,200
+C0431,2025-02-27,MEA,Education,51-200,SMB,Events,Basic,50
+C0432,2023-09-26,LATAM,Finance,11-50,SMB,Paid,Basic,50
+C0433,2024-12-11,LATAM,Healthcare,11-50,SMB,Referral,Basic,50
+C0434,2025-01-21,Europe,Healthcare,51-200,Enterprise,Organic,Enterprise,1000
+C0435,2024-09-30,Europe,Healthcare,1-10,SMB,Events,Basic,50
+C0436,2024-01-23,North America,Manufacturing,51-200,SMB,Referral,Basic,50
+C0437,2024-02-27,North America,Finance,1-10,SMB,Outbound,Basic,50
+C0438,2023-12-06,Europe,Retail,1000+,Mid-Market,Organic,Pro,200
+C0439,2024-08-20,Europe,Education,11-50,SMB,Referral,Basic,50
+C0440,2025-01-01,North America,Retail,1-10,Mid-Market,Referral,Pro,200
+C0441,2024-02-02,Europe,Manufacturing,11-50,Mid-Market,Paid,Basic,50
+C0442,2023-08-15,LATAM,Education,11-50,Enterprise,Paid,Pro,200
+C0443,2023-11-01,Europe,Healthcare,51-200,Mid-Market,Organic,Basic,50
+C0444,2025-03-17,APAC,SaaS,51-200,Enterprise,Referral,Pro,200
+C0445,2024-08-08,LATAM,Manufacturing,51-200,Enterprise,Paid,Enterprise,1000
+C0446,2023-08-25,MEA,Manufacturing,1-10,Mid-Market,Organic,Pro,200
+C0447,2025-04-27,APAC,Finance,1-10,Mid-Market,Referral,Basic,50
+C0448,2024-03-11,LATAM,Retail,1-10,SMB,Paid,Pro,200
+C0449,2024-01-06,MEA,Manufacturing,51-200,Mid-Market,Organic,Basic,50
+C0450,2023-08-08,MEA,Manufacturing,201-1000,SMB,Outbound,Pro,200
+C0451,2023-07-17,North America,Healthcare,11-50,Enterprise,Outbound,Enterprise,1000
+C0452,2023-09-02,Europe,Healthcare,1-10,Mid-Market,Paid,Pro,200
+C0453,2024-08-26,North America,Education,51-200,SMB,Organic,Basic,50
+C0454,2023-12-21,North America,SaaS,201-1000,SMB,Referral,Basic,50
+C0455,2024-01-04,APAC,Finance,51-200,SMB,Paid,Basic,50
+C0456,2024-09-16,APAC,SaaS,201-1000,Mid-Market,Organic,Pro,200
+C0457,2024-08-05,LATAM,Education,11-50,Mid-Market,Paid,Pro,200
+C0458,2024-05-06,North America,Healthcare,1-10,SMB,Paid,Pro,200
+C0459,2024-12-02,LATAM,Retail,201-1000,Mid-Market,Paid,Basic,50
+C0460,2025-02-01,APAC,Healthcare,51-200,SMB,Paid,Pro,200
+C0461,2024-03-15,APAC,Finance,11-50,SMB,Referral,Basic,50
+C0462,2024-02-09,LATAM,Healthcare,51-200,SMB,Outbound,Pro,200
+C0463,2024-05-22,APAC,Finance,201-1000,SMB,Paid,Basic,50
+C0464,2023-06-23,North America,Finance,51-200,SMB,Referral,Pro,200
+C0465,2024-11-03,LATAM,Finance,51-200,SMB,Events,Basic,50
+C0466,2023-09-08,Europe,Education,11-50,SMB,Paid,Pro,200
+C0467,2023-11-27,North America,Finance,11-50,SMB,Paid,Basic,50
+C0468,2024-01-09,LATAM,Finance,11-50,Mid-Market,Referral,Pro,200
+C0469,2025-03-20,North America,Retail,201-1000,Mid-Market,Referral,Basic,50
+C0470,2024-08-15,APAC,SaaS,201-1000,SMB,Events,Pro,200
+C0471,2025-01-28,Europe,Manufacturing,201-1000,SMB,Paid,Pro,200
+C0472,2024-04-20,LATAM,SaaS,1-10,SMB,Outbound,Pro,200
+C0473,2024-10-28,North America,Finance,51-200,SMB,Organic,Basic,50
+C0474,2023-06-16,MEA,Retail,51-200,SMB,Organic,Basic,50
+C0475,2024-05-01,APAC,Healthcare,51-200,SMB,Referral,Pro,200
+C0476,2024-02-13,North America,Retail,51-200,Enterprise,Organic,Pro,200
+C0477,2024-10-09,Europe,Finance,201-1000,Mid-Market,Organic,Pro,200
+C0478,2023-11-07,MEA,Retail,11-50,Mid-Market,Organic,Pro,200
+C0479,2024-09-17,Europe,Retail,11-50,Enterprise,Organic,Enterprise,1000
+C0480,2025-03-25,North America,Finance,1-10,Mid-Market,Organic,Basic,50
+C0481,2025-04-20,Europe,Education,11-50,SMB,Outbound,Pro,200
+C0482,2025-04-05,Europe,Retail,51-200,SMB,Organic,Pro,200
+C0483,2024-06-14,APAC,Manufacturing,51-200,SMB,Referral,Basic,50
+C0484,2024-11-26,APAC,Manufacturing,11-50,Mid-Market,Referral,Pro,200
+C0485,2025-04-21,Europe,Retail,1-10,Enterprise,Outbound,Pro,200
+C0486,2024-07-31,North America,Education,51-200,Enterprise,Organic,Enterprise,1000
+C0487,2025-02-02,APAC,Healthcare,1-10,SMB,Events,Basic,50
+C0488,2024-02-23,Europe,Finance,1-10,Mid-Market,Paid,Basic,50
+C0489,2024-12-28,North America,Manufacturing,1-10,SMB,Referral,Pro,200
+C0490,2024-07-21,LATAM,Healthcare,1-10,Mid-Market,Referral,Pro,200
+C0491,2023-11-15,APAC,Retail,1-10,SMB,Events,Basic,50
+C0492,2023-07-13,APAC,Healthcare,11-50,SMB,Organic,Basic,50
+C0493,2024-12-07,LATAM,SaaS,11-50,SMB,Referral,Basic,50
+C0494,2024-03-11,Europe,Manufacturing,201-1000,SMB,Paid,Basic,50
+C0495,2024-07-01,LATAM,Retail,11-50,SMB,Events,Basic,50
+C0496,2023-06-12,Europe,Finance,51-200,Mid-Market,Outbound,Basic,50
+C0497,2025-01-27,North America,Education,1-10,SMB,Organic,Pro,200
+C0498,2024-03-28,Europe,Retail,11-50,SMB,Outbound,Basic,50
+C0499,2024-02-08,Europe,Finance,51-200,SMB,Organic,Basic,50
+C0500,2024-10-11,APAC,Education,1-10,SMB,Organic,Basic,50
+C0501,2023-07-05,North America,Education,11-50,Mid-Market,Organic,Pro,200
+C0502,2023-08-29,North America,Retail,51-200,SMB,Organic,Basic,50
+C0503,2025-01-25,North America,Healthcare,51-200,SMB,Referral,Basic,50
+C0504,2025-01-22,North America,Healthcare,1-10,Mid-Market,Organic,Basic,50
+C0505,2024-07-22,APAC,Education,11-50,SMB,Organic,Pro,200
+C0506,2023-09-23,North America,Healthcare,51-200,Mid-Market,Outbound,Basic,50
+C0507,2025-02-06,APAC,SaaS,1-10,SMB,Events,Pro,200
+C0508,2023-12-13,Europe,Education,51-200,SMB,Events,Basic,50
+C0509,2024-10-13,Europe,Education,51-200,SMB,Events,Basic,50
+C0510,2025-02-15,LATAM,Finance,1000+,SMB,Referral,Pro,200
+C0511,2024-10-05,Europe,Healthcare,11-50,SMB,Organic,Basic,50
+C0512,2023-08-14,APAC,Education,201-1000,SMB,Paid,Pro,200
+C0513,2024-07-17,Europe,SaaS,11-50,Mid-Market,Referral,Pro,200
+C0514,2024-06-10,Europe,Finance,11-50,SMB,Organic,Pro,200
+C0515,2024-07-24,MEA,Retail,1-10,Mid-Market,Referral,Basic,50
+C0516,2024-03-03,North America,Education,51-200,Mid-Market,Organic,Pro,200
+C0517,2025-04-06,North America,SaaS,11-50,SMB,Organic,Basic,50
+C0518,2024-06-28,APAC,Manufacturing,11-50,SMB,Paid,Pro,200
+C0519,2024-08-30,North America,SaaS,1-10,SMB,Referral,Basic,50
+C0520,2023-12-09,LATAM,SaaS,201-1000,SMB,Referral,Pro,200
+C0521,2025-04-19,Europe,Finance,51-200,Enterprise,Referral,Enterprise,1000
+C0522,2023-09-07,LATAM,Retail,51-200,SMB,Organic,Basic,50
+C0523,2024-11-29,APAC,Manufacturing,11-50,Mid-Market,Organic,Basic,50
+C0524,2023-09-04,APAC,Healthcare,1-10,Mid-Market,Events,Pro,200
+C0525,2025-03-25,MEA,Healthcare,51-200,Mid-Market,Referral,Pro,200
+C0526,2025-03-24,Europe,SaaS,11-50,Mid-Market,Organic,Pro,200
+C0527,2023-12-07,MEA,Finance,1-10,Enterprise,Events,Enterprise,1000
+C0528,2023-07-07,North America,Finance,51-200,SMB,Organic,Basic,50
+C0529,2024-06-03,Europe,Healthcare,1000+,SMB,Paid,Basic,50
+C0530,2025-04-25,North America,Manufacturing,51-200,SMB,Organic,Basic,50
+C0531,2024-11-06,Europe,Retail,51-200,SMB,Referral,Basic,50
+C0532,2024-03-05,North America,Manufacturing,1000+,Mid-Market,Referral,Pro,200
+C0533,2024-01-03,LATAM,Education,11-50,Mid-Market,Organic,Basic,50
+C0534,2024-02-28,LATAM,Education,51-200,SMB,Events,Basic,50
+C0535,2023-08-01,MEA,Retail,1000+,Mid-Market,Paid,Basic,50
+C0536,2025-01-16,North America,Healthcare,1-10,Mid-Market,Organic,Pro,200
+C0537,2024-05-07,APAC,Retail,51-200,SMB,Organic,Basic,50
+C0538,2024-07-01,Europe,Finance,51-200,Mid-Market,Organic,Pro,200
+C0539,2025-04-29,North America,Education,51-200,Mid-Market,Organic,Pro,200
+C0540,2023-06-19,Europe,SaaS,51-200,SMB,Referral,Basic,50
+C0541,2023-11-24,Europe,SaaS,201-1000,Mid-Market,Events,Pro,200
+C0542,2025-02-01,APAC,Healthcare,51-200,Enterprise,Paid,Enterprise,1000
+C0543,2024-06-30,Europe,Finance,1-10,SMB,Organic,Pro,200
+C0544,2024-08-18,Europe,Manufacturing,201-1000,SMB,Organic,Pro,200
+C0545,2024-01-19,North America,Finance,11-50,SMB,Organic,Pro,200
+C0546,2023-08-15,North America,SaaS,11-50,Mid-Market,Paid,Pro,200
+C0547,2024-02-20,North America,SaaS,11-50,Enterprise,Referral,Enterprise,1000
+C0548,2024-08-28,MEA,Education,11-50,SMB,Organic,Pro,200
+C0549,2024-06-18,North America,Finance,11-50,Mid-Market,Referral,Basic,50
+C0550,2024-12-15,North America,Finance,201-1000,SMB,Events,Pro,200
+C0551,2024-10-18,North America,SaaS,51-200,Mid-Market,Paid,Pro,200
+C0552,2024-06-01,LATAM,Manufacturing,51-200,Mid-Market,Events,Pro,200
+C0553,2023-10-22,MEA,Healthcare,1-10,SMB,Paid,Basic,50
+C0554,2023-08-08,APAC,Healthcare,201-1000,Mid-Market,Referral,Pro,200
+C0555,2023-09-07,APAC,Finance,201-1000,Enterprise,Paid,Pro,200
+C0556,2024-06-30,Europe,Healthcare,51-200,Mid-Market,Paid,Pro,200
+C0557,2023-06-25,North America,SaaS,1-10,SMB,Organic,Pro,200
+C0558,2024-09-11,MEA,SaaS,1-10,Enterprise,Organic,Pro,200
+C0559,2024-09-26,APAC,Finance,11-50,Mid-Market,Organic,Pro,200
+C0560,2024-12-16,APAC,Finance,1-10,SMB,Paid,Pro,200
+C0561,2023-10-29,APAC,Education,11-50,SMB,Organic,Basic,50
+C0562,2023-10-22,APAC,Finance,201-1000,SMB,Outbound,Basic,50
+C0563,2024-12-20,APAC,Manufacturing,11-50,SMB,Referral,Basic,50
+C0564,2023-07-09,MEA,Healthcare,1-10,SMB,Paid,Basic,50
+C0565,2023-09-17,LATAM,Finance,11-50,Mid-Market,Organic,Basic,50
+C0566,2025-04-23,APAC,Retail,1-10,Mid-Market,Events,Pro,200
+C0567,2023-07-12,APAC,Education,1-10,SMB,Events,Basic,50
+C0568,2023-12-03,North America,Retail,11-50,Enterprise,Referral,Enterprise,1000
+C0569,2024-07-02,APAC,SaaS,11-50,Mid-Market,Organic,Basic,50
+C0570,2024-01-09,North America,Healthcare,51-200,Mid-Market,Paid,Pro,200
+C0571,2025-02-23,Europe,Finance,1000+,Mid-Market,Organic,Pro,200
+C0572,2023-10-11,MEA,Retail,11-50,SMB,Organic,Pro,200
+C0573,2023-11-10,Europe,Healthcare,11-50,Mid-Market,Events,Basic,50
+C0574,2024-01-01,Europe,SaaS,201-1000,Enterprise,Referral,Enterprise,1000
+C0575,2024-01-21,North America,Manufacturing,11-50,SMB,Referral,Basic,50
+C0576,2025-03-19,North America,Education,1-10,Mid-Market,Events,Basic,50
+C0577,2025-01-08,APAC,Healthcare,201-1000,SMB,Referral,Basic,50
+C0578,2023-06-09,North America,Healthcare,1-10,SMB,Paid,Basic,50
+C0579,2023-08-13,North America,Manufacturing,51-200,SMB,Organic,Basic,50
+C0580,2024-10-04,Europe,Healthcare,51-200,Mid-Market,Outbound,Pro,200
+C0581,2024-02-08,APAC,SaaS,11-50,SMB,Organic,Basic,50
+C0582,2024-01-16,APAC,SaaS,11-50,Enterprise,Outbound,Enterprise,1000
+C0583,2024-10-31,North America,Manufacturing,51-200,Mid-Market,Events,Pro,200
+C0584,2023-11-21,Europe,Education,1-10,SMB,Organic,Pro,200
+C0585,2025-03-14,Europe,Finance,11-50,Enterprise,Paid,Enterprise,1000
+C0586,2023-11-15,APAC,Retail,51-200,SMB,Events,Basic,50
+C0587,2023-11-17,APAC,Finance,11-50,SMB,Referral,Pro,200
+C0588,2024-06-27,Europe,Healthcare,1-10,Mid-Market,Outbound,Basic,50
+C0589,2025-02-23,Europe,Retail,201-1000,SMB,Outbound,Basic,50
+C0590,2023-12-11,Europe,Manufacturing,11-50,SMB,Paid,Basic,50
+C0591,2024-10-29,LATAM,Manufacturing,201-1000,Enterprise,Paid,Enterprise,1000
+C0592,2023-06-29,Europe,Education,51-200,SMB,Outbound,Pro,200
+C0593,2023-11-12,Europe,Retail,51-200,SMB,Referral,Pro,200
+C0594,2024-07-26,Europe,SaaS,11-50,Mid-Market,Organic,Basic,50
+C0595,2024-05-04,Europe,Retail,1000+,SMB,Organic,Basic,50
+C0596,2025-03-09,LATAM,Healthcare,1-10,Enterprise,Paid,Enterprise,1000
+C0597,2024-10-08,Europe,SaaS,51-200,Mid-Market,Outbound,Basic,50
+C0598,2024-05-30,APAC,Manufacturing,1-10,SMB,Events,Basic,50
+C0599,2024-05-07,APAC,Retail,11-50,SMB,Referral,Basic,50
+C0600,2024-10-12,Europe,Finance,11-50,Enterprise,Organic,Pro,200

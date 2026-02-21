@@ -1,0 +1,601 @@
+customer_id,plan,price_usd_month,start_date,end_date,is_churned,churn_reason
+C0001,Basic,50,2023-09-11,,False,
+C0002,Pro,200,2024-08-09,,False,
+C0003,Basic,50,2024-02-26,2024-08-19,True,No ROI
+C0004,Basic,50,2023-09-15,2024-01-03,True,Switched to competitor
+C0005,Basic,50,2023-08-11,2024-10-17,True,No ROI
+C0006,Pro,200,2023-06-21,2024-01-17,True,No ROI
+C0007,Enterprise,1000,2025-02-04,,False,
+C0008,Basic,50,2023-09-30,,False,
+C0009,Basic,50,2024-09-09,2024-11-16,True,Switched to competitor
+C0010,Basic,50,2024-01-01,2024-02-11,True,Missing features
+C0011,Pro,200,2024-04-26,,False,
+C0012,Basic,50,2024-09-01,2025-07-15,True,Missing features
+C0013,Basic,50,2023-08-27,2024-02-09,True,Other
+C0014,Basic,50,2024-06-07,2024-12-26,True,No ROI
+C0015,Pro,200,2023-09-08,2025-06-04,True,Budget constraints
+C0016,Basic,50,2025-03-25,,False,
+C0017,Basic,50,2023-10-09,,False,
+C0018,Pro,200,2025-03-23,,False,
+C0019,Pro,200,2024-04-04,,False,
+C0020,Basic,50,2024-05-09,,False,
+C0021,Pro,200,2024-10-04,,False,
+C0022,Basic,50,2024-07-18,2025-01-18,True,Other
+C0023,Basic,50,2024-06-20,2024-11-06,True,Budget constraints
+C0024,Basic,50,2023-12-09,2025-04-04,True,No ROI
+C0025,Enterprise,1000,2024-03-03,2025-01-12,True,Missing features
+C0026,Basic,50,2023-11-08,2025-05-27,True,Budget constraints
+C0027,Pro,200,2024-09-02,,False,
+C0028,Pro,200,2024-04-09,2024-10-28,True,Switched to competitor
+C0029,Pro,200,2023-06-22,,False,
+C0030,Pro,200,2024-02-08,,False,
+C0031,Pro,200,2024-12-12,,False,
+C0032,Basic,50,2024-09-17,2025-04-19,True,No ROI
+C0033,Basic,50,2023-07-29,2025-07-03,True,Budget constraints
+C0034,Enterprise,1000,2024-10-23,,False,
+C0035,Basic,50,2025-04-12,,False,
+C0036,Pro,200,2024-09-18,,False,
+C0037,Pro,200,2025-04-30,,False,
+C0038,Basic,50,2023-12-07,2024-06-27,True,Budget constraints
+C0039,Enterprise,1000,2025-04-17,,False,
+C0040,Pro,200,2024-12-14,,False,
+C0041,Pro,200,2024-12-18,,False,
+C0042,Basic,50,2024-01-30,2024-03-10,True,No ROI
+C0043,Basic,50,2024-10-17,2025-07-27,True,Poor onboarding
+C0044,Pro,200,2023-10-09,2024-04-17,True,Missing features
+C0045,Pro,200,2024-09-27,,False,
+C0046,Pro,200,2025-03-08,,False,
+C0047,Basic,50,2023-06-21,2025-07-04,True,No ROI
+C0048,Basic,50,2023-11-14,,False,
+C0049,Pro,200,2024-02-29,2025-02-23,True,Missing features
+C0050,Basic,50,2024-06-22,2024-11-06,True,Switched to competitor
+C0051,Pro,200,2025-01-21,,False,
+C0052,Pro,200,2024-04-11,,False,
+C0053,Pro,200,2023-06-14,2024-07-14,True,Other
+C0054,Enterprise,1000,2024-01-28,,False,
+C0055,Basic,50,2024-05-11,,False,
+C0056,Pro,200,2024-12-16,,False,
+C0057,Basic,50,2024-05-05,2025-06-26,True,Switched to competitor
+C0058,Pro,200,2023-08-31,2025-07-13,True,Missing features
+C0059,Basic,50,2024-06-01,,False,
+C0060,Pro,200,2024-08-28,,False,
+C0061,Enterprise,1000,2024-08-01,,False,
+C0062,Basic,50,2024-10-21,,False,
+C0063,Pro,200,2023-07-05,,False,
+C0064,Pro,200,2023-12-23,2024-10-12,True,Missing features
+C0065,Pro,200,2023-08-20,2024-09-13,True,Switched to competitor
+C0066,Basic,50,2024-12-13,,False,
+C0067,Basic,50,2024-06-22,,False,
+C0068,Basic,50,2023-06-02,2025-05-03,True,Budget constraints
+C0069,Pro,200,2024-06-24,,False,
+C0070,Basic,50,2024-12-17,2025-03-08,True,Missing features
+C0071,Basic,50,2023-09-14,2024-07-15,True,Switched to competitor
+C0072,Enterprise,1000,2024-09-19,2025-06-13,True,No ROI
+C0073,Enterprise,1000,2024-07-06,,False,
+C0074,Basic,50,2024-12-07,2025-01-27,True,No ROI
+C0075,Pro,200,2023-11-09,2025-06-08,True,No ROI
+C0076,Basic,50,2023-12-19,2024-02-11,True,Switched to competitor
+C0077,Enterprise,1000,2024-02-25,,False,
+C0078,Pro,200,2024-02-26,2025-06-13,True,Switched to competitor
+C0079,Basic,50,2024-08-29,2025-05-21,True,Switched to competitor
+C0080,Basic,50,2024-09-04,2025-03-06,True,Switched to competitor
+C0081,Pro,200,2024-02-07,,False,
+C0082,Basic,50,2024-03-22,2025-03-19,True,Budget constraints
+C0083,Pro,200,2024-05-03,,False,
+C0084,Enterprise,1000,2023-07-23,2024-12-16,True,Switched to competitor
+C0085,Pro,200,2024-01-03,,False,
+C0086,Pro,200,2023-12-05,2025-04-03,True,Poor onboarding
+C0087,Enterprise,1000,2024-06-14,,False,
+C0088,Pro,200,2024-10-05,,False,
+C0089,Basic,50,2023-07-11,2024-09-14,True,Missing features
+C0090,Basic,50,2023-11-04,2025-01-14,True,Switched to competitor
+C0091,Basic,50,2023-06-15,2024-04-17,True,Switched to competitor
+C0092,Basic,50,2023-08-04,2024-04-05,True,Budget constraints
+C0093,Pro,200,2024-11-02,,False,
+C0094,Pro,200,2024-05-09,,False,
+C0095,Pro,200,2023-10-07,2024-01-06,True,Missing features
+C0096,Basic,50,2025-03-09,,False,
+C0097,Enterprise,1000,2024-09-14,,False,
+C0098,Basic,50,2023-08-02,2024-01-12,True,Switched to competitor
+C0099,Enterprise,1000,2023-10-17,2024-06-17,True,No ROI
+C0100,Enterprise,1000,2024-10-11,,False,
+C0101,Pro,200,2025-01-13,,False,
+C0102,Basic,50,2024-06-26,,False,
+C0103,Pro,200,2025-04-05,,False,
+C0104,Pro,200,2024-07-23,,False,
+C0105,Basic,50,2024-03-15,2025-04-24,True,No ROI
+C0106,Pro,200,2024-06-13,,False,
+C0107,Pro,200,2024-10-02,,False,
+C0108,Basic,50,2024-01-17,2024-07-26,True,No ROI
+C0109,Pro,200,2023-07-11,2025-05-20,True,Switched to competitor
+C0110,Enterprise,1000,2023-06-28,2025-03-12,True,Missing features
+C0111,Enterprise,1000,2023-10-13,,False,
+C0112,Pro,200,2023-12-18,2024-01-22,True,Budget constraints
+C0113,Basic,50,2023-07-03,,False,
+C0114,Basic,50,2023-07-18,,False,
+C0115,Enterprise,1000,2024-10-15,,False,
+C0116,Enterprise,1000,2024-07-11,2024-10-10,True,Missing features
+C0117,Pro,200,2024-12-25,,False,
+C0118,Basic,50,2023-09-07,2024-02-15,True,No ROI
+C0119,Pro,200,2025-04-14,,False,
+C0120,Pro,200,2024-11-28,,False,
+C0121,Pro,200,2025-02-02,,False,
+C0122,Basic,50,2024-09-04,,False,
+C0123,Pro,200,2025-03-04,,False,
+C0124,Basic,50,2023-06-05,2024-04-21,True,No ROI
+C0125,Basic,50,2024-01-04,,False,
+C0126,Pro,200,2024-10-15,,False,
+C0127,Pro,200,2024-07-02,,False,
+C0128,Enterprise,1000,2024-06-27,,False,
+C0129,Enterprise,1000,2023-12-24,2025-01-08,True,Other
+C0130,Basic,50,2023-06-15,,False,
+C0131,Basic,50,2024-12-05,,False,
+C0132,Basic,50,2024-09-03,,False,
+C0133,Enterprise,1000,2025-04-21,,False,
+C0134,Enterprise,1000,2024-12-26,,False,
+C0135,Basic,50,2024-01-27,2024-01-04,True,Poor onboarding
+C0136,Pro,200,2024-12-15,2025-06-18,True,Budget constraints
+C0137,Pro,200,2023-09-04,2024-06-19,True,Switched to competitor
+C0138,Pro,200,2024-09-27,2024-09-18,True,Missing features
+C0139,Pro,200,2024-07-11,,False,
+C0140,Pro,200,2024-01-17,2024-12-14,True,Budget constraints
+C0141,Basic,50,2025-03-16,2025-04-02,True,Missing features
+C0142,Basic,50,2023-11-18,,False,
+C0143,Basic,50,2024-11-22,2024-12-08,True,Switched to competitor
+C0144,Enterprise,1000,2023-07-06,2025-05-15,True,No ROI
+C0145,Pro,200,2024-11-06,,False,
+C0146,Basic,50,2023-11-07,2024-10-10,True,No ROI
+C0147,Pro,200,2025-04-29,,False,
+C0148,Pro,200,2024-01-29,2024-02-11,True,Budget constraints
+C0149,Basic,50,2023-08-25,2025-01-15,True,Budget constraints
+C0150,Pro,200,2024-12-29,,False,
+C0151,Enterprise,1000,2025-04-12,,False,
+C0152,Pro,200,2024-12-08,,False,
+C0153,Pro,200,2024-12-25,,False,
+C0154,Basic,50,2025-03-07,,False,
+C0155,Basic,50,2023-06-28,,False,
+C0156,Basic,50,2025-02-09,,False,
+C0157,Basic,50,2024-12-07,,False,
+C0158,Pro,200,2024-05-05,,False,
+C0159,Basic,50,2024-04-26,2024-08-22,True,Switched to competitor
+C0160,Basic,50,2025-03-01,2025-07-10,True,No ROI
+C0161,Basic,50,2024-10-18,,False,
+C0162,Pro,200,2024-05-13,2025-07-03,True,Missing features
+C0163,Basic,50,2024-09-15,,False,
+C0164,Pro,200,2024-01-17,2024-06-21,True,Poor onboarding
+C0165,Pro,200,2023-12-07,2024-03-08,True,No ROI
+C0166,Basic,50,2024-01-11,2024-03-05,True,Missing features
+C0167,Pro,200,2024-06-19,,False,
+C0168,Pro,200,2024-06-11,,False,
+C0169,Basic,50,2024-03-09,,False,
+C0170,Pro,200,2025-02-22,,False,
+C0171,Enterprise,1000,2025-02-17,2025-04-09,True,Switched to competitor
+C0172,Pro,200,2024-02-14,2025-01-25,True,Budget constraints
+C0173,Pro,200,2024-05-24,2024-11-10,True,Budget constraints
+C0174,Pro,200,2024-08-29,,False,
+C0175,Pro,200,2024-07-15,,False,
+C0176,Pro,200,2025-03-10,,False,
+C0177,Basic,50,2024-04-13,,False,
+C0178,Basic,50,2025-04-07,,False,
+C0179,Basic,50,2024-01-11,2024-03-26,True,Missing features
+C0180,Pro,200,2024-01-20,2025-07-22,True,Missing features
+C0181,Pro,200,2025-04-14,,False,
+C0182,Pro,200,2025-03-25,2025-03-15,True,No ROI
+C0183,Enterprise,1000,2024-06-08,,False,
+C0184,Basic,50,2025-04-02,2025-07-17,True,No ROI
+C0185,Pro,200,2025-01-28,2025-04-12,True,Missing features
+C0186,Pro,200,2024-09-14,,False,
+C0187,Enterprise,1000,2024-01-19,2024-06-22,True,No ROI
+C0188,Basic,50,2025-04-22,,False,
+C0189,Pro,200,2023-09-21,2025-06-23,True,Missing features
+C0190,Basic,50,2024-10-09,,False,
+C0191,Pro,200,2024-08-15,2024-11-13,True,Poor onboarding
+C0192,Basic,50,2024-12-15,,False,
+C0193,Basic,50,2024-02-23,2024-02-04,True,No ROI
+C0194,Enterprise,1000,2024-10-22,,False,
+C0195,Basic,50,2024-06-20,,False,
+C0196,Pro,200,2024-06-21,2025-04-06,True,Missing features
+C0197,Pro,200,2023-09-21,2024-12-27,True,Budget constraints
+C0198,Pro,200,2025-02-02,,False,
+C0199,Pro,200,2025-02-14,,False,
+C0200,Pro,200,2023-08-20,2024-04-02,True,No ROI
+C0201,Pro,200,2025-04-29,,False,
+C0202,Enterprise,1000,2023-09-21,,False,
+C0203,Pro,200,2023-06-02,2024-05-08,True,Budget constraints
+C0204,Basic,50,2025-03-03,,False,
+C0205,Basic,50,2024-01-06,2024-08-19,True,Budget constraints
+C0206,Basic,50,2024-12-17,2025-03-23,True,Budget constraints
+C0207,Basic,50,2024-01-11,2024-10-09,True,Poor onboarding
+C0208,Basic,50,2024-06-19,,False,
+C0209,Basic,50,2024-07-07,,False,
+C0210,Pro,200,2025-02-27,,False,
+C0211,Basic,50,2023-10-08,2024-06-28,True,Missing features
+C0212,Basic,50,2023-07-23,2024-05-11,True,No ROI
+C0213,Basic,50,2025-04-14,2025-05-14,True,Missing features
+C0214,Pro,200,2025-04-02,,False,
+C0215,Enterprise,1000,2024-07-20,,False,
+C0216,Enterprise,1000,2024-02-02,,False,
+C0217,Pro,200,2024-08-12,,False,
+C0218,Pro,200,2023-12-20,2024-06-14,True,Missing features
+C0219,Pro,200,2023-12-01,,False,
+C0220,Pro,200,2023-10-01,2025-05-24,True,Budget constraints
+C0221,Enterprise,1000,2024-07-05,2025-06-17,True,No ROI
+C0222,Basic,50,2024-03-20,2024-10-20,True,Missing features
+C0223,Pro,200,2024-03-06,,False,
+C0224,Pro,200,2025-01-30,,False,
+C0225,Basic,50,2023-12-15,2024-04-24,True,Poor onboarding
+C0226,Pro,200,2024-10-23,,False,
+C0227,Basic,50,2023-10-22,2025-02-10,True,Missing features
+C0228,Enterprise,1000,2025-01-29,,False,
+C0229,Basic,50,2023-12-18,2024-10-02,True,Budget constraints
+C0230,Enterprise,1000,2023-10-02,2024-12-22,True,No ROI
+C0231,Pro,200,2023-12-04,2024-12-20,True,Switched to competitor
+C0232,Basic,50,2024-04-21,2024-06-04,True,Budget constraints
+C0233,Pro,200,2024-09-06,2024-12-07,True,Switched to competitor
+C0234,Basic,50,2024-05-14,2025-05-16,True,Budget constraints
+C0235,Pro,200,2025-03-21,,False,
+C0236,Basic,50,2024-07-07,,False,
+C0237,Enterprise,1000,2024-05-11,,False,
+C0238,Pro,200,2024-10-23,,False,
+C0239,Pro,200,2023-10-25,,False,
+C0240,Pro,200,2023-10-26,2024-08-10,True,Budget constraints
+C0241,Pro,200,2024-10-01,,False,
+C0242,Pro,200,2025-03-01,,False,
+C0243,Pro,200,2024-12-02,,False,
+C0244,Enterprise,1000,2024-05-03,,False,
+C0245,Basic,50,2025-03-02,,False,
+C0246,Basic,50,2024-09-15,2024-09-03,True,Poor onboarding
+C0247,Basic,50,2023-10-29,2024-07-13,True,Switched to competitor
+C0248,Basic,50,2024-07-19,2025-04-03,True,No ROI
+C0249,Basic,50,2024-03-24,2024-10-26,True,Other
+C0250,Basic,50,2025-01-31,,False,
+C0251,Basic,50,2024-02-18,2025-02-23,True,Other
+C0252,Basic,50,2023-10-22,2025-05-27,True,Missing features
+C0253,Pro,200,2024-05-11,2024-08-17,True,Other
+C0254,Basic,50,2025-02-13,2025-05-24,True,Other
+C0255,Pro,200,2024-12-23,,False,
+C0256,Enterprise,1000,2023-06-02,,False,
+C0257,Basic,50,2024-03-30,2024-06-22,True,Switched to competitor
+C0258,Pro,200,2024-02-09,,False,
+C0259,Pro,200,2025-03-13,2025-07-10,True,No ROI
+C0260,Enterprise,1000,2024-08-26,2025-06-19,True,No ROI
+C0261,Enterprise,1000,2023-07-07,2024-02-12,True,Missing features
+C0262,Enterprise,1000,2023-11-07,2024-02-02,True,Switched to competitor
+C0263,Basic,50,2023-06-09,,False,
+C0264,Basic,50,2024-01-19,2024-12-22,True,No ROI
+C0265,Basic,50,2023-09-07,2024-02-03,True,Switched to competitor
+C0266,Pro,200,2025-03-20,2025-04-24,True,No ROI
+C0267,Pro,200,2023-12-25,2024-07-15,True,Switched to competitor
+C0268,Enterprise,1000,2023-10-09,2025-06-17,True,Poor onboarding
+C0269,Pro,200,2024-07-08,2024-10-04,True,Poor onboarding
+C0270,Basic,50,2023-10-30,2025-03-11,True,Budget constraints
+C0271,Basic,50,2023-07-24,2024-06-06,True,Switched to competitor
+C0272,Basic,50,2023-09-28,2025-07-07,True,No ROI
+C0273,Pro,200,2025-04-03,,False,
+C0274,Pro,200,2025-02-17,,False,
+C0275,Basic,50,2025-01-07,,False,
+C0276,Basic,50,2025-02-14,2025-02-23,True,Switched to competitor
+C0277,Basic,50,2024-07-24,,False,
+C0278,Pro,200,2024-07-26,2024-11-07,True,Switched to competitor
+C0279,Basic,50,2023-09-12,2025-03-17,True,Budget constraints
+C0280,Basic,50,2024-02-09,2024-08-04,True,Missing features
+C0281,Basic,50,2024-01-13,2025-07-13,True,Missing features
+C0282,Pro,200,2023-09-20,2024-05-07,True,Switched to competitor
+C0283,Pro,200,2024-10-22,,False,
+C0284,Basic,50,2024-09-15,2024-11-22,True,Missing features
+C0285,Pro,200,2023-09-07,2024-09-15,True,Missing features
+C0286,Enterprise,1000,2023-10-31,,False,
+C0287,Pro,200,2024-05-03,,False,
+C0288,Pro,200,2023-11-10,2025-07-06,True,No ROI
+C0289,Basic,50,2025-04-11,,False,
+C0290,Basic,50,2023-11-08,2025-07-14,True,Budget constraints
+C0291,Basic,50,2024-12-31,2025-04-10,True,No ROI
+C0292,Basic,50,2024-07-02,,False,
+C0293,Pro,200,2024-03-03,2024-08-10,True,Switched to competitor
+C0294,Basic,50,2024-10-16,2025-06-22,True,Switched to competitor
+C0295,Basic,50,2024-06-26,2025-02-18,True,No ROI
+C0296,Pro,200,2023-10-13,,False,
+C0297,Basic,50,2023-12-12,2024-01-12,True,Budget constraints
+C0298,Basic,50,2024-07-05,2024-11-18,True,Missing features
+C0299,Basic,50,2025-03-01,2025-06-22,True,No ROI
+C0300,Enterprise,1000,2023-07-03,2024-06-04,True,No ROI
+C0301,Enterprise,1000,2025-04-18,,False,
+C0302,Basic,50,2024-09-02,2025-05-24,True,Budget constraints
+C0303,Basic,50,2024-09-12,2024-10-27,True,No ROI
+C0304,Pro,200,2024-06-09,2025-03-25,True,Switched to competitor
+C0305,Basic,50,2023-06-22,,False,
+C0306,Basic,50,2025-03-31,,False,
+C0307,Basic,50,2023-07-08,2024-07-21,True,Budget constraints
+C0308,Enterprise,1000,2024-01-16,,False,
+C0309,Pro,200,2024-05-30,2025-04-08,True,Budget constraints
+C0310,Enterprise,1000,2024-12-14,,False,
+C0311,Pro,200,2024-08-11,2024-08-09,True,Missing features
+C0312,Basic,50,2024-03-09,,False,
+C0313,Pro,200,2023-06-27,2024-11-10,True,Switched to competitor
+C0314,Pro,200,2024-01-12,,False,
+C0315,Basic,50,2024-03-03,2025-02-08,True,Switched to competitor
+C0316,Enterprise,1000,2025-01-29,,False,
+C0317,Basic,50,2024-03-10,2025-01-10,True,Budget constraints
+C0318,Basic,50,2024-09-23,2025-07-22,True,Budget constraints
+C0319,Basic,50,2024-08-26,,False,
+C0320,Pro,200,2025-03-20,,False,
+C0321,Enterprise,1000,2024-10-28,,False,
+C0322,Pro,200,2024-11-28,,False,
+C0323,Basic,50,2023-12-09,2025-01-18,True,Missing features
+C0324,Enterprise,1000,2023-07-19,2024-07-27,True,Switched to competitor
+C0325,Basic,50,2024-10-24,2025-03-26,True,Switched to competitor
+C0326,Basic,50,2023-06-17,,False,
+C0327,Basic,50,2023-11-19,2024-03-25,True,Missing features
+C0328,Pro,200,2024-01-06,2024-03-22,True,No ROI
+C0329,Basic,50,2023-11-05,,False,
+C0330,Enterprise,1000,2024-09-19,,False,
+C0331,Basic,50,2023-07-16,2024-04-14,True,Other
+C0332,Basic,50,2024-06-07,2024-06-04,True,Missing features
+C0333,Pro,200,2024-10-30,,False,
+C0334,Pro,200,2023-09-07,2024-07-23,True,Poor onboarding
+C0335,Enterprise,1000,2023-07-07,2025-05-24,True,No ROI
+C0336,Enterprise,1000,2024-03-06,,False,
+C0337,Basic,50,2024-05-14,2025-07-05,True,No ROI
+C0338,Pro,200,2024-10-09,,False,
+C0339,Basic,50,2024-03-28,,False,
+C0340,Basic,50,2023-11-28,2024-10-19,True,Other
+C0341,Pro,200,2025-01-27,,False,
+C0342,Basic,50,2023-09-07,2024-10-13,True,Budget constraints
+C0343,Pro,200,2025-04-30,,False,
+C0344,Basic,50,2023-09-24,2024-03-08,True,Budget constraints
+C0345,Pro,200,2023-12-08,,False,
+C0346,Enterprise,1000,2024-02-08,2024-10-15,True,Switched to competitor
+C0347,Enterprise,1000,2023-11-08,,False,
+C0348,Basic,50,2024-02-11,2024-03-05,True,Budget constraints
+C0349,Pro,200,2024-04-18,,False,
+C0350,Basic,50,2023-10-06,,False,
+C0351,Enterprise,1000,2023-06-18,,False,
+C0352,Basic,50,2024-12-17,,False,
+C0353,Enterprise,1000,2024-12-21,,False,
+C0354,Basic,50,2024-04-18,,False,
+C0355,Enterprise,1000,2025-04-16,2025-05-18,True,Missing features
+C0356,Basic,50,2025-02-15,2025-05-17,True,Poor onboarding
+C0357,Pro,200,2024-03-14,2024-04-15,True,Missing features
+C0358,Pro,200,2025-03-24,,False,
+C0359,Pro,200,2025-02-28,,False,
+C0360,Pro,200,2023-11-02,2024-12-06,True,Budget constraints
+C0361,Basic,50,2024-10-02,2025-03-03,True,Other
+C0362,Pro,200,2024-06-20,2024-06-05,True,Budget constraints
+C0363,Pro,200,2023-09-12,2024-03-04,True,No ROI
+C0364,Pro,200,2024-06-27,2025-06-17,True,No ROI
+C0365,Basic,50,2024-02-01,2024-05-26,True,Missing features
+C0366,Basic,50,2023-11-23,,False,
+C0367,Pro,200,2023-07-09,2024-02-23,True,No ROI
+C0368,Pro,200,2024-09-19,2025-04-03,True,Switched to competitor
+C0369,Basic,50,2025-04-12,,False,
+C0370,Enterprise,1000,2024-11-19,,False,
+C0371,Pro,200,2024-07-12,2025-04-14,True,Budget constraints
+C0372,Pro,200,2024-11-06,,False,
+C0373,Pro,200,2024-10-18,,False,
+C0374,Pro,200,2023-07-06,2024-01-22,True,Switched to competitor
+C0375,Basic,50,2025-04-15,,False,
+C0376,Basic,50,2023-06-20,2024-03-19,True,Missing features
+C0377,Basic,50,2024-04-16,2025-01-06,True,No ROI
+C0378,Basic,50,2024-10-24,2024-10-05,True,Switched to competitor
+C0379,Basic,50,2024-07-04,,False,
+C0380,Basic,50,2025-03-15,,False,
+C0381,Pro,200,2024-09-13,,False,
+C0382,Pro,200,2023-10-21,,False,
+C0383,Basic,50,2023-08-31,,False,
+C0384,Pro,200,2024-05-19,2025-04-28,True,Poor onboarding
+C0385,Basic,50,2023-07-21,2025-05-12,True,Missing features
+C0386,Basic,50,2025-03-26,,False,
+C0387,Basic,50,2025-04-28,,False,
+C0388,Basic,50,2024-12-26,2025-01-26,True,Budget constraints
+C0389,Enterprise,1000,2023-12-07,,False,
+C0390,Pro,200,2023-10-03,,False,
+C0391,Pro,200,2023-10-28,,False,
+C0392,Basic,50,2024-04-09,,False,
+C0393,Basic,50,2024-12-21,,False,
+C0394,Pro,200,2024-05-07,,False,
+C0395,Pro,200,2024-03-31,,False,
+C0396,Pro,200,2025-04-22,2025-07-18,True,Budget constraints
+C0397,Basic,50,2025-04-12,2025-06-23,True,Budget constraints
+C0398,Pro,200,2023-07-24,2024-10-19,True,Poor onboarding
+C0399,Pro,200,2024-08-17,,False,
+C0400,Basic,50,2025-02-02,,False,
+C0401,Pro,200,2024-02-19,,False,
+C0402,Basic,50,2023-07-23,2024-01-12,True,Poor onboarding
+C0403,Pro,200,2024-12-23,,False,
+C0404,Enterprise,1000,2025-02-09,,False,
+C0405,Basic,50,2023-06-05,2025-03-26,True,Other
+C0406,Basic,50,2023-09-11,,False,
+C0407,Pro,200,2023-12-13,2024-06-05,True,Budget constraints
+C0408,Basic,50,2024-05-15,2024-06-09,True,Switched to competitor
+C0409,Pro,200,2023-07-17,2024-06-11,True,Budget constraints
+C0410,Pro,200,2025-03-17,,False,
+C0411,Pro,200,2024-02-24,2025-03-16,True,Switched to competitor
+C0412,Basic,50,2024-06-04,,False,
+C0413,Pro,200,2025-02-25,,False,
+C0414,Basic,50,2023-09-14,,False,
+C0415,Basic,50,2025-03-31,2025-04-17,True,No ROI
+C0416,Basic,50,2025-03-20,,False,
+C0417,Basic,50,2025-03-18,,False,
+C0418,Basic,50,2023-09-28,2024-01-06,True,No ROI
+C0419,Pro,200,2025-01-24,,False,
+C0420,Basic,50,2023-07-28,2024-12-26,True,Budget constraints
+C0421,Basic,50,2024-05-11,,False,
+C0422,Pro,200,2024-09-16,,False,
+C0423,Basic,50,2023-09-25,2024-11-02,True,Budget constraints
+C0424,Pro,200,2023-10-05,,False,
+C0425,Basic,50,2024-06-27,2025-02-06,True,Switched to competitor
+C0426,Pro,200,2025-03-02,,False,
+C0427,Basic,50,2023-07-28,2025-03-14,True,Switched to competitor
+C0428,Basic,50,2025-02-23,,False,
+C0429,Pro,200,2024-10-25,,False,
+C0430,Pro,200,2023-09-04,2024-06-17,True,Poor onboarding
+C0431,Basic,50,2025-02-27,,False,
+C0432,Basic,50,2023-09-26,2024-07-14,True,Missing features
+C0433,Basic,50,2024-12-11,2025-01-03,True,Switched to competitor
+C0434,Enterprise,1000,2025-01-21,,False,
+C0435,Basic,50,2024-09-30,,False,
+C0436,Basic,50,2024-01-23,2024-01-21,True,Switched to competitor
+C0437,Basic,50,2024-02-27,2025-01-02,True,Budget constraints
+C0438,Pro,200,2023-12-06,,False,
+C0439,Basic,50,2024-08-20,,False,
+C0440,Pro,200,2025-01-01,2025-07-17,True,No ROI
+C0441,Basic,50,2024-02-02,,False,
+C0442,Pro,200,2023-08-15,,False,
+C0443,Basic,50,2023-11-01,,False,
+C0444,Pro,200,2025-03-17,,False,
+C0445,Enterprise,1000,2024-08-08,,False,
+C0446,Pro,200,2023-08-25,2024-02-19,True,Missing features
+C0447,Basic,50,2025-04-27,,False,
+C0448,Pro,200,2024-03-11,,False,
+C0449,Basic,50,2024-01-06,2024-01-25,True,Poor onboarding
+C0450,Pro,200,2023-08-08,2025-05-17,True,Missing features
+C0451,Enterprise,1000,2023-07-17,,False,
+C0452,Pro,200,2023-09-02,2024-09-12,True,Switched to competitor
+C0453,Basic,50,2024-08-26,2024-08-16,True,Switched to competitor
+C0454,Basic,50,2023-12-21,2024-07-21,True,Missing features
+C0455,Basic,50,2024-01-04,2024-06-11,True,Missing features
+C0456,Pro,200,2024-09-16,2025-06-05,True,Switched to competitor
+C0457,Pro,200,2024-08-05,2025-05-04,True,Other
+C0458,Pro,200,2024-05-06,2025-04-10,True,Missing features
+C0459,Basic,50,2024-12-02,,False,
+C0460,Pro,200,2025-02-01,2025-06-27,True,Budget constraints
+C0461,Basic,50,2024-03-15,2024-06-19,True,Switched to competitor
+C0462,Pro,200,2024-02-09,,False,
+C0463,Basic,50,2024-05-22,2024-07-05,True,Switched to competitor
+C0464,Pro,200,2023-06-23,2024-05-21,True,No ROI
+C0465,Basic,50,2024-11-03,,False,
+C0466,Pro,200,2023-09-08,2025-06-26,True,No ROI
+C0467,Basic,50,2023-11-27,2024-06-08,True,Switched to competitor
+C0468,Pro,200,2024-01-09,,False,
+C0469,Basic,50,2025-03-20,,False,
+C0470,Pro,200,2024-08-15,2025-02-24,True,Missing features
+C0471,Pro,200,2025-01-28,,False,
+C0472,Pro,200,2024-04-20,2025-01-14,True,Switched to competitor
+C0473,Basic,50,2024-10-28,2025-06-02,True,Missing features
+C0474,Basic,50,2023-06-16,2024-10-03,True,Budget constraints
+C0475,Pro,200,2024-05-01,2025-06-21,True,No ROI
+C0476,Pro,200,2024-02-13,,False,
+C0477,Pro,200,2024-10-09,,False,
+C0478,Pro,200,2023-11-07,2024-08-05,True,Missing features
+C0479,Enterprise,1000,2024-09-17,2025-02-04,True,Missing features
+C0480,Basic,50,2025-03-25,,False,
+C0481,Pro,200,2025-04-20,,False,
+C0482,Pro,200,2025-04-05,,False,
+C0483,Basic,50,2024-06-14,,False,
+C0484,Pro,200,2024-11-26,,False,
+C0485,Pro,200,2025-04-21,,False,
+C0486,Enterprise,1000,2024-07-31,2025-04-18,True,No ROI
+C0487,Basic,50,2025-02-02,,False,
+C0488,Basic,50,2024-02-23,,False,
+C0489,Pro,200,2024-12-28,,False,
+C0490,Pro,200,2024-07-21,,False,
+C0491,Basic,50,2023-11-15,2025-02-03,True,No ROI
+C0492,Basic,50,2023-07-13,2024-03-18,True,Budget constraints
+C0493,Basic,50,2024-12-07,,False,
+C0494,Basic,50,2024-03-11,2024-07-23,True,Budget constraints
+C0495,Basic,50,2024-07-01,2024-10-16,True,Budget constraints
+C0496,Basic,50,2023-06-12,2024-07-22,True,No ROI
+C0497,Pro,200,2025-01-27,2025-03-15,True,Missing features
+C0498,Basic,50,2024-03-28,2025-02-14,True,Budget constraints
+C0499,Basic,50,2024-02-08,2024-06-24,True,Missing features
+C0500,Basic,50,2024-10-11,,False,
+C0501,Pro,200,2023-07-05,,False,
+C0502,Basic,50,2023-08-29,2025-02-15,True,Other
+C0503,Basic,50,2025-01-25,,False,
+C0504,Basic,50,2025-01-22,,False,
+C0505,Pro,200,2024-07-22,,False,
+C0506,Basic,50,2023-09-23,2024-01-13,True,Budget constraints
+C0507,Pro,200,2025-02-06,,False,
+C0508,Basic,50,2023-12-13,2025-07-17,True,Missing features
+C0509,Basic,50,2024-10-13,,False,
+C0510,Pro,200,2025-02-15,,False,
+C0511,Basic,50,2024-10-05,2025-01-23,True,Switched to competitor
+C0512,Pro,200,2023-08-14,2024-12-19,True,Missing features
+C0513,Pro,200,2024-07-17,2025-02-23,True,Budget constraints
+C0514,Pro,200,2024-06-10,,False,
+C0515,Basic,50,2024-07-24,2025-01-08,True,Budget constraints
+C0516,Pro,200,2024-03-03,2024-09-22,True,Poor onboarding
+C0517,Basic,50,2025-04-06,,False,
+C0518,Pro,200,2024-06-28,2024-10-28,True,Budget constraints
+C0519,Basic,50,2024-08-30,,False,
+C0520,Pro,200,2023-12-09,2024-04-26,True,No ROI
+C0521,Enterprise,1000,2025-04-19,,False,
+C0522,Basic,50,2023-09-07,2024-11-12,True,Budget constraints
+C0523,Basic,50,2024-11-29,2025-01-13,True,Budget constraints
+C0524,Pro,200,2023-09-04,,False,
+C0525,Pro,200,2025-03-25,2025-04-18,True,Budget constraints
+C0526,Pro,200,2025-03-24,,False,
+C0527,Enterprise,1000,2023-12-07,2025-03-13,True,Budget constraints
+C0528,Basic,50,2023-07-07,2024-08-28,True,No ROI
+C0529,Basic,50,2024-06-03,2025-03-17,True,Missing features
+C0530,Basic,50,2025-04-25,,False,
+C0531,Basic,50,2024-11-06,2025-02-23,True,No ROI
+C0532,Pro,200,2024-03-05,2024-09-06,True,Missing features
+C0533,Basic,50,2024-01-03,2024-11-08,True,Missing features
+C0534,Basic,50,2024-02-28,2024-05-25,True,No ROI
+C0535,Basic,50,2023-08-01,,False,
+C0536,Pro,200,2025-01-16,,False,
+C0537,Basic,50,2024-05-07,,False,
+C0538,Pro,200,2024-07-01,,False,
+C0539,Pro,200,2025-04-29,,False,
+C0540,Basic,50,2023-06-19,2025-07-04,True,Switched to competitor
+C0541,Pro,200,2023-11-24,2024-01-07,True,Budget constraints
+C0542,Enterprise,1000,2025-02-01,,False,
+C0543,Pro,200,2024-06-30,2025-04-15,True,Poor onboarding
+C0544,Pro,200,2024-08-18,,False,
+C0545,Pro,200,2024-01-19,2025-05-20,True,No ROI
+C0546,Pro,200,2023-08-15,2024-04-22,True,Budget constraints
+C0547,Enterprise,1000,2024-02-20,2025-02-12,True,No ROI
+C0548,Pro,200,2024-08-28,2024-12-17,True,Switched to competitor
+C0549,Basic,50,2024-06-18,,False,
+C0550,Pro,200,2024-12-15,2025-06-20,True,Budget constraints
+C0551,Pro,200,2024-10-18,,False,
+C0552,Pro,200,2024-06-01,2025-06-24,True,Switched to competitor
+C0553,Basic,50,2023-10-22,2025-01-08,True,Budget constraints
+C0554,Pro,200,2023-08-08,2024-08-08,True,Missing features
+C0555,Pro,200,2023-09-07,2024-08-27,True,Missing features
+C0556,Pro,200,2024-06-30,2024-10-07,True,No ROI
+C0557,Pro,200,2023-06-25,2024-01-27,True,Missing features
+C0558,Pro,200,2024-09-11,2025-02-04,True,Budget constraints
+C0559,Pro,200,2024-09-26,,False,
+C0560,Pro,200,2024-12-16,,False,
+C0561,Basic,50,2023-10-29,2025-03-19,True,Budget constraints
+C0562,Basic,50,2023-10-22,2024-11-21,True,No ROI
+C0563,Basic,50,2024-12-20,,False,
+C0564,Basic,50,2023-07-09,2024-07-14,True,Poor onboarding
+C0565,Basic,50,2023-09-17,2025-02-26,True,Poor onboarding
+C0566,Pro,200,2025-04-23,,False,
+C0567,Basic,50,2023-07-12,2024-11-03,True,Switched to competitor
+C0568,Enterprise,1000,2023-12-03,2024-04-08,True,Switched to competitor
+C0569,Basic,50,2024-07-02,,False,
+C0570,Pro,200,2024-01-09,,False,
+C0571,Pro,200,2025-02-23,,False,
+C0572,Pro,200,2023-10-11,,False,
+C0573,Basic,50,2023-11-10,2024-12-06,True,Missing features
+C0574,Enterprise,1000,2024-01-01,2025-06-18,True,Switched to competitor
+C0575,Basic,50,2024-01-21,2025-04-06,True,Switched to competitor
+C0576,Basic,50,2025-03-19,,False,
+C0577,Basic,50,2025-01-08,,False,
+C0578,Basic,50,2023-06-09,2024-08-07,True,No ROI
+C0579,Basic,50,2023-08-13,2024-06-13,True,Other
+C0580,Pro,200,2024-10-04,,False,
+C0581,Basic,50,2024-02-08,2024-07-26,True,Switched to competitor
+C0582,Enterprise,1000,2024-01-16,2024-06-23,True,Other
+C0583,Pro,200,2024-10-31,2025-03-16,True,Missing features
+C0584,Pro,200,2023-11-21,2024-05-03,True,Switched to competitor
+C0585,Enterprise,1000,2025-03-14,,False,
+C0586,Basic,50,2023-11-15,2024-03-22,True,Budget constraints
+C0587,Pro,200,2023-11-17,2024-10-08,True,No ROI
+C0588,Basic,50,2024-06-27,,False,
+C0589,Basic,50,2025-02-23,,False,
+C0590,Basic,50,2023-12-11,2024-05-12,True,Other
+C0591,Enterprise,1000,2024-10-29,,False,
+C0592,Pro,200,2023-06-29,2025-07-25,True,Switched to competitor
+C0593,Pro,200,2023-11-12,,False,
+C0594,Basic,50,2024-07-26,2024-08-05,True,No ROI
+C0595,Basic,50,2024-05-04,,False,
+C0596,Enterprise,1000,2025-03-09,,False,
+C0597,Basic,50,2024-10-08,,False,
+C0598,Basic,50,2024-05-30,2024-10-16,True,Switched to competitor
+C0599,Basic,50,2024-05-07,2024-08-02,True,No ROI
+C0600,Pro,200,2024-10-12,2025-05-14,True,Switched to competitor
